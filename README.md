@@ -45,9 +45,6 @@ This complete process is called **Software Engineering**.
 
 ## 🔹 Fundamental Software Engineering Activities
 
-Imagine you are building an application. You cannot just start coding directly.  
-You need to follow some important steps to make sure everything works properly.  
-
 There are four main activities in Software Engineering:
 
 ### 1️⃣ Specification
