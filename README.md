@@ -75,3 +75,16 @@ After release, the software is updated and improved over time.
 📌 Example: Adding new features or fixing bugs after users start using the app.
 
 ---
+
+
+## Careers in Software Engineering
+
+Software engineering offers a wide range of career opportunities driven by modern technologies such as automobiles, aviation, telecommunications, robotics, and security systems. Software engineers develop various types of software including games, business applications, operating systems, and network control systems.
+
+### Applications Developers
+Applications developers focus on creating software for users. They design and build applications like games, mobile apps, and business programs. These can be custom-made for specific clients or developed as commercial software for the general public. They may also create databases and online systems for internal or web-based use. This role highlights how software engineering helps deliver practical solutions that people use in everyday life.
+
+### Systems Developers
+Systems developers work on building and maintaining operating systems that keep computers and devices running smoothly. Their work is essential for controlling modern electronics such as smartphones and cars. They also design interfaces that allow users to interact with systems easily. This shows how software engineering supports the core functionality of technology and ensures efficient system performance.
+
+---
