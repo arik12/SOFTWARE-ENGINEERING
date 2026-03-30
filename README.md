@@ -79,12 +79,20 @@ After release, the software is updated and improved over time.
 
 ## Careers in Software Engineering
 
-Software engineering offers a wide range of career opportunities driven by modern technologies such as automobiles, aviation, telecommunications, robotics, and security systems. Software engineers develop various types of software including games, business applications, operating systems, and network control systems.
+Imagine a student sitting in front of a computer, typing code and building something new. That simple action can turn into creating a mobile app, a game, or even the system that runs a smartphone or car. This is how the journey of a software engineer often begins.
+
+Software engineering offers many career opportunities influenced by modern technologies like cars, airplanes, telecommunications, robotics, and security systems. Software engineers create different types of software such as games, business applications, operating systems, and network control systems.
+
+There are two main types of roles in software engineering:
 
 ### Applications Developers
-Applications developers focus on creating software for users. They design and build applications like games, mobile apps, and business programs. These can be custom-made for specific clients or developed as commercial software for the general public. They may also create databases and online systems for internal or web-based use. This role highlights how software engineering helps deliver practical solutions that people use in everyday life.
+Applications developers create software that users interact with directly. They design apps like games, mobile applications, and business software. These can be custom-made for specific clients or sold to the general public. They may also develop databases or online systems for organizations.  
+**Example:** A mobile developer creating a food delivery app.
 
 ### Systems Developers
-Systems developers work on building and maintaining operating systems that keep computers and devices running smoothly. Their work is essential for controlling modern electronics such as smartphones and cars. They also design interfaces that allow users to interact with systems easily. This shows how software engineering supports the core functionality of technology and ensures efficient system performance.
+Systems developers are responsible for creating and maintaining operating systems that control how computers and devices work. They ensure that both hardware and software function together smoothly. Their job includes managing system performance, fixing errors, improving speed, and making sure the system is secure and reliable.  
+
+**Example:** When you turn on your smartphone, the system starts, manages memory, runs apps, and controls all device functions in the background. A systems developer helps design and improve this entire process so the phone works fast and smoothly.
+
 
 ---
