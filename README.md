@@ -135,10 +135,15 @@ The tasks of a software engineer are the different types of work they do to buil
 Some main tasks are:
 
 Requirement Analysis – Understanding what the client or user actually needs
+
 Design and Development – Writing clean and structured code to build the software
+
 Testing and Debugging – Checking for errors and fixing bugs
+
 Code Review – Reviewing code with team members to improve quality
+
 Maintenance – Updating software and adding new features
+
 Documentation – Writing clear notes and explanations for the code
 
 ---
