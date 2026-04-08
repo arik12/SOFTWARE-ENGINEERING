@@ -96,3 +96,51 @@ Systems developers are responsible for creating and maintaining operating system
 
 
 ---
+
+What Skills do Software Engineers Need?
+
+A software engineer is someone who creates software by using programming languages, solves problems, and makes applications work smoothly for users.
+
+Imagine I want to become a software engineer. First, I learn how to code, because without coding I can’t build anything. Then I understand software development, which helps me create full applications step by step.
+
+After building something, I don’t just leave it—I do software testing to check if everything works correctly and fix mistakes. I also learn object-oriented design (OOD) so I can organize my code in a clean and smart way.
+
+By learning all these skills together, I slowly become a good software engineer who can build useful software.
+
+
+To become a software engineer, some important technical skills are needed:
+
+Coding and computer programming
+Software testing
+Object-oriented design (OOD)
+Software development
+
+---
+
+Main Attributes of Software Engineering
+
+Efficiency:It provides a measure of the resource requirement of a software product efficiently.
+
+Reliability:It assures that the product will deliver the same results when used in similar working environment.
+
+Reusability:This attribute makes sure that the module can be used in multiple applications
+
+---
+
+What Tasks do Software Engineers do?
+
+
+The tasks of a software engineer are the different types of work they do to build, improve, and maintain software applications.
+
+Some main tasks are:
+
+Requirement Analysis – Understanding what the client or user actually needs
+Design and Development – Writing clean and structured code to build the software
+Testing and Debugging – Checking for errors and fixing bugs
+Code Review – Reviewing code with team members to improve quality
+Maintenance – Updating software and adding new features
+Documentation – Writing clear notes and explanations for the code
+
+---
+
+
