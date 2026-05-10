@@ -177,7 +177,7 @@ This design is written in a DDS Design Document Specification. Usually more than
 This is where actual coding begins. Developers take the DDS and start writing real code — turning the design into a working software.
 If the design is clear and detailed, coding becomes much easier. কারণ কী বানাতে হবে সেটা already জানা, শুধু সেটা লিখতে হবে। এটা অনেকটা ভালো recipe দেখে রান্না করার মতো  recipe ভালো হলে রান্না সহজ হয়।
 Developers follow the organization's coding guidelines  rules about how to write and organize code so that any developer can understand it easily, even if someone else wrote it.
-They also use tools a compiler to convert code into machine language, an interpreter to run code line by line, and a debugger to find and fix errors. এবং project এর ধরন অনুযায়ী programming language বেছে নেওয়া হয় — website হলে JavaScript, system software হলে C বা C++, enterprise application হলে Java। 
+They also use tools a compiler to convert code into machine language, an interpreter to run code line by line, and a debugger to find and fix errors এবং project এর ধরন অনুযায়ী programming language বেছে নেওয়া হয়। 
 
 ### Stage 5 — Testing the Product
 
@@ -189,8 +189,7 @@ This cycle of finding bugs, fixing them, and retesting continues until the softw
 
 ### Stage 6 — Deployment & Maintenance
 Once the software passes all tests, it is finally released to the real world. This is called Deployment.
-Often, software is not released to everyone at once. প্রথমে একটা ছোট group কে দেওয়া হয় — এটাকে বলে UAT, User Acceptance Testing — যেখানে real users real environment এ software টা use করে দেখেন। Lab এ test করা আর real world এ use করা অনেক আলাদা, তাই UAT এ নতুন সমস্যা ধরা পড়তে পারে।
-Based on their feedback, improvements are made — and then a wider release happens.
+Often, software is not released to everyone at once. প্রথমে একটা ছোট group কে দেওয়া হয়  এটাকে বলে UAT, User Acceptance Testing যেখানে real users real environment এ software টা use করে দেখেন। Lab এ test করা আর real world এ use করা অনেক আলাদা, তাই UAT এ নতুন সমস্যা ধরা পড়তে পারে। Based on their feedback, improvements are made and then a wider release happens.
 But even after release, the work does not stop. Maintenance চলতে থাকে নতুন bugs fix করা, security update দেওয়া, নতুন features add করা, performance ঠিক রাখা। একটা ভালো software বছরের পর বছর maintain করতে হয়।
 
 ---  
